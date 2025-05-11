@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="3002ab5f-b123-4b62-b330-a193d50d89eb" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/PAT_Mini_Project_Two_V_1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Configuration/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Configuration/conftest.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PageObjects/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PageObjects/admin_page.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PageObjects/base_page.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PageObjects/dashboardpage.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PageObjects/home_page.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PageObjects/login_page.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TestData/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TestData/data.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TestData/login_data.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TestLocator/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TestLocator/locators.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TestScripts/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TestScripts/test_cookielogin.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TestScripts/test_createuser.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TestScripts/test_dashboardmenu.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TestScripts/test_homepageurl.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TestScripts/test_login.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TestScripts/test_loginelements.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TestScripts/test_userexists.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/utilities/excel_utilities.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 4
+}</component>
+  <component name="ProjectId" id="2wtVv6hxQSOBGqXviwoztHa4l51" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Python tests.Python tests for test_cookielogin.test_cookie_login.executor": "Run",
+    "Python tests.Python tests for test_cookielogin.test_login_and_save_cookie.executor": "Run",
+    "Python tests.Python tests for test_createuser.test_create_and_login_with_new_user.executor": "Run",
+    "Python tests.Python tests for test_dashboardmenu.test_dashboard_menus.executor": "Run",
+    "Python tests.Python tests for test_homepageurl.test_home_url.executor": "Run",
+    "Python tests.Python tests for test_login.test_login.executor": "Run",
+    "Python tests.Python tests for test_loginelements.test_login_elements_visible.executor": "Run",
+    "Python tests.Python tests for test_userexists.test_user_exists.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "ignore.virus.scanning.warn.message": "true",
+    "last_opened_file_path": "C:/Users/INPAVANV/Desktop/P/Log/Pavan_P/GUVI/Pycharm/Python_Selenium/PAT_Mini_Project_Two_V_1/TestScripts"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\INPAVANV\Desktop\P\Log\Pavan_P\GUVI\Pycharm\Python_Selenium\PAT_Mini_Project_Two_V_1\TestScripts" />
+      <recent name="C:\Users\INPAVANV\Desktop\P\Log\Pavan_P\GUVI\Pycharm\Python_Selenium\PAT_Mini_Project_Two_V_1\PageObjects" />
+      <recent name="C:\Users\INPAVANV\Desktop\P\Log\Pavan_P\GUVI\Pycharm\Python_Selenium\PAT_Mini_Project_Two_V_1\TestData" />
+      <recent name="C:\Users\INPAVANV\Desktop\P\Log\Pavan_P\GUVI\Pycharm\Python_Selenium\PAT_Mini_Project_Two_V_1" />
+      <recent name="C:\Users\INPAVANV\Desktop\P\Log\Pavan_P\GUVI\Pycharm\Python_Selenium\PAT_Mini_Project_Two_V_1\TestLocator" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\INPAVANV\Desktop\P\Log\Pavan_P\GUVI\Pycharm\Python_Selenium\PAT_Mini_Project_Two_V_1\Reports" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python tests.Python tests for test_createuser.test_create_and_login_with_new_user">
+    <configuration name="Python tests for test_cookielogin.test_cookie_login" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+      <module name="PAT_Mini_Project_Two_V_1" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/TestScripts" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test_cookielogin.test_cookie_login&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Python tests for test_cookielogin.test_login_and_save_cookie" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+      <module name="PAT_Mini_Project_Two_V_1" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/TestScripts" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test_cookielogin.test_login_and_save_cookie&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Python tests for test_createuser.test_create_and_login_with_new_user" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+      <module name="PAT_Mini_Project_Two_V_1" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/TestScripts" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test_createuser.test_create_and_login_with_new_user&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Python tests for test_dashboardmenu.test_dashboard_menus" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+      <module name="PAT_Mini_Project_Two_V_1" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/TestScripts" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test_dashboardmenu.test_dashboard_menus&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Python tests for test_userexists.test_user_exists" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+      <module name="PAT_Mini_Project_Two_V_1" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/TestScripts" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test_userexists.test_user_exists&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python tests.Python tests for test_createuser.test_create_and_login_with_new_user" />
+        <item itemvalue="Python tests.Python tests for test_dashboardmenu.test_dashboard_menus" />
+        <item itemvalue="Python tests.Python tests for test_userexists.test_user_exists" />
+        <item itemvalue="Python tests.Python tests for test_cookielogin.test_cookie_login" />
+        <item itemvalue="Python tests.Python tests for test_cookielogin.test_login_and_save_cookie" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-0e3be3396995-c546a90a8094-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-242.23339.19" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3002ab5f-b123-4b62-b330-a193d50d89eb" name="Changes" comment="" />
+      <created>1746861084537</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1746861084537</updated>
+    </task>
+    <servers />
+  </component>
+</project>
