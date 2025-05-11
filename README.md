@@ -35,6 +35,18 @@ This project automates functional testing for the **OrangeHRM demo web applicati
 - **Explicit Waits**
 - **OOP Principles**
 
+  ## 🗂️ Project Structure
+
+├── configrations 
+├── Locators
+├── Testdata
+├── PageObjects
+├── TestScripts
+├── Utilities
+├── Reports
+├── README.md
+
+
 ---
 
 
